@@ -2,7 +2,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-TOKEN = "MTQyMDMzOTMxODg2MTQ2MzYwMg.Gkr4ye.DKWUoy-QTNCKmfARTv3wsG_Frk-1wtGnYX24QY" 
+TOKEN = "MTQ0MjU3NjY3OTE2MjYxMzgyMA.GqwOK_.bMeVndZZrPM39LGNYIDLlXqGHkA-DESRokxmuc" 
 
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=intents)
